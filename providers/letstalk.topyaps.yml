@@ -4,7 +4,7 @@
   endpoints:
   - schemes:
     - http://letstalk.topyaps.com/*/
-    url: http://letstalk.topyaps.com/oembed
+    url: http://letstalk.topyaps.com/oembed/
     example_urls:
     - http://letstalk.topyaps.com/t/oembed?url=http://letstalk.topyaps.com/t/
 ...
