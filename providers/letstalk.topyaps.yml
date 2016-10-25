@@ -3,8 +3,8 @@
   provider_url: http://letstalk.topyaps.com
   endpoints:
   - schemes:
-    - http://letstalk.topyaps.com/*
-    url: http://www.letstalk.topyaps.com/oembed
+    - http://letstalk.topyaps.com/*/
+    url: http://letstalk.topyaps.com/oembed
     example_urls:
-    - http://www.letstalk.topyaps.com/oembed?url=http%3A%2F%2Fletstalk.topyaps.com/
+    - http://letstalk.topyaps.com/oembed?url=http://letstalk.topyaps.com/t/
 ...
